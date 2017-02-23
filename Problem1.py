@@ -1,4 +1,4 @@
-print("Welcome to Problem1, please enter three integer and this program will tell you if the first two integers can add up to the first")
+print("Welcome to Problem1, please enter three integer and this program will tell you if the first two integers can add up to the third")
 
 firstnumber = int(raw_input("firstnumber"))
 secondnumber = int(raw_input("secondnumber"))
